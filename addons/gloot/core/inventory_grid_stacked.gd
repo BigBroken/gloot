@@ -1,6 +1,6 @@
 @tool
 extends InventoryGrid
-class_name InventoryGridStacked
+class_name InventoryGridStacked 
 
 const StacksConstraint = preload("res://addons/gloot/core/constraints/stacks_constraint.gd")
 
